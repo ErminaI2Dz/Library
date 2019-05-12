@@ -1,0 +1,1 @@
+Account number of clients who borrowed a book: 1, borrowed book's number: 1 , date of borrowing: Sun May 12 11:47:08 CEST 2019

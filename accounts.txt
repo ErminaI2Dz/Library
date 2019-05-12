@@ -1,0 +1,3 @@
+Account number: 1, client name: Amir, number of borrowed books: 0
+Account number: 2, client name: Amira, number of borrowed books: 0
+Account number: 3, client name: 1, number of borrowed books: 0
